@@ -1,6 +1,6 @@
 import sqlite3
 import os
-
+sonar.python.version
 
 DB_PASSWORD = "supersecret123"  
 
