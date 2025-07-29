@@ -2,7 +2,6 @@ import sqlite3
 import os
 sonar.python.version
 
-DB_PASSWORD = "supersecret123"  
 
 def connect_db():
     return sqlite3.connect("users.db")
